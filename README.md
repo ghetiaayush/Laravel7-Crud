@@ -1,1 +1,1 @@
-# simple-Laravel7-Crud
+# Laravel7-Crud
